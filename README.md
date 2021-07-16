@@ -10,7 +10,17 @@
 - :seedling: I’m currently learning `Kafka`, `RabbitMQ`, `OLAP`
 - :zap: Fun fact: I'm a huge Martin Garrix fan!
 
-#### :computer: Backend Stack
+##### CONNECT WITH ME
+
+<a href="https://www.linkedin.com/in/morenomarkjohn/">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/morenomjc">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<br/>
+
+#### Backend Stack
 
 <code><img height="30" src="assets/java.png"></code>
 <code><img height="30" src="assets/spring-boot.png"></code>
@@ -22,14 +32,14 @@
 <code><img height="30" src="assets/mapstruct.png"></code>
 <code><img height="30" src="assets/jooq.png"></code>
 
-#### :white_check_mark: Testing Stack
+#### Testing Stack
 
 <code><img height="30" src="assets/junit.png"></code>
 <code><img height="30" src="assets/testcontainers.png"></code>
 <code><img height="30" src="assets/mockito.jpg"></code>
 <code><img height="30" src="assets/postman.png"></code>
 
-#### :hourglass: CI/CD Stack
+#### CI/CD Stack
 
 <code><img height="30" src="assets/maven.png"></code>
 <code><img height="30" src="assets/gradle.png"></code>
@@ -38,7 +48,7 @@
 <code><img height="30" src="assets/github.png"></code>
 <code><img height="30" src="assets/github-actions.png"></code>
 
-#### :cloud: Cloud Stack
+#### Cloud Stack
 
 <code><img height="30" src="assets/docker.png"></code>
 <code><img height="30" src="assets/kubernetes.png"></code>
@@ -49,7 +59,7 @@
 <code><img height="30" src="assets/aws-lambda.png"></code>
 <code><img height="30" src="assets/aws-stepfunctions.png"></code>
 
-#### :iphone: Mobile Stack
+#### Mobile Stack
 
 <code><img height="30" src="assets/dart.png"></code>
 <code><img height="30" src="assets/flutter.png"></code>
