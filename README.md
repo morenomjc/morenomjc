@@ -65,9 +65,10 @@
 <code><img height="30" src="assets/flutter.png"></code>
 
 
-
 #####  [View on Stack Share](https://stackshare.io/morenomjc/backend-stack)
 
-
-
+#### Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morenomjc&layout=compact&langs_count=6"/>
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=morenomjc.visitor-badge)
+
