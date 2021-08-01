@@ -7,7 +7,7 @@
 
 - :philippines: Filipino
 - :telescope: I’m currently preparing for **CKAD** and **Vault Associate** certification
-- :seedling: I’m currently learning `Kafka`, `RabbitMQ`, `OLAP`
+- :seedling: I’m currently learning `Kafka`, `RabbitMQ`, Change Data Capture
 - :zap: Fun fact: I'm a huge Martin Garrix fan!
 
 ##### CONNECT WITH ME
