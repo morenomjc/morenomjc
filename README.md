@@ -10,6 +10,11 @@
 - :seedling: I’m currently learning `RabbitMQ`, AWS Stack (`S3`, `Lambda`, `Step Functions`)
 - :zap: Fun fact: I'm a huge Martin Garrix fan!
 
+##### OPEN-SOURCE CONTRIBUTIONS
+
+- Spring Data Redis
+  - https://github.com/spring-projects/spring-data-redis/pull/2118
+
 ##### CONNECT WITH ME
 
 <a href="https://www.linkedin.com/in/morenomarkjohn/">
