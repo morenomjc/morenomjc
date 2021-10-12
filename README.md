@@ -6,7 +6,7 @@
 ##### ABOUT ME
 
 - :philippines: Filipino
-- :telescope: I’m currently preparing for **CKAD** and **Vault Associate** certification
+- :telescope: I’m currently preparing for **CKAD** certification
 - :seedling: I’m currently learning `RabbitMQ`, AWS Stack (`S3`, `Lambda`, `Step Functions`)
 - :+1: I'm interested on Geo Spatial related projects
 - :zap: Fun fact: I'm a huge Martin Garrix fan!
