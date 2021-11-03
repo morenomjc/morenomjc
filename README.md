@@ -7,7 +7,7 @@
 
 - :philippines: Filipino
 - :dart: Certified Kubernetes Application Developer
-- :seedling: I’m currently learning `RabbitMQ`, AWS Stack (`S3`, `Lambda`, `Step Functions`)
+- :seedling: I’m currently learning `Kafka`, event-streaming.
 - :+1: I'm interested on Geo Spatial related projects
 - :zap: Fun fact: I'm a huge Martin Garrix fan!
 
