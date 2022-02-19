@@ -8,7 +8,7 @@
 - :philippines: Filipino
 - :dart: Certified Kubernetes Application Developer
 - :sunglasses: TDD Practitioner and DevOps-oriented
-- :seedling: I’m currently learning `Kafka`, event-streaming, `Gatling` for performance test.
+- :seedling: I’m currently learning `Kafka`, event-streaming, event-sourcing, `Gatling` for performance test.
 - :+1: I'm interested on Geo Spatial related projects
 - :zap: Fun fact: I'm a huge Martin Garrix fan!
 
