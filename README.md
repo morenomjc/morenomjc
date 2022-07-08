@@ -6,7 +6,7 @@
 ##### ABOUT ME
 
 - :philippines: Filipino
-- :dart: Certified Kubernetes Application Developer
+- :dart: Certified Kubernetes Application Developer (CKAD)
 - :sunglasses: TDD Practitioner and DevOps-oriented
 - :seedling: I’m currently learning `Kafka`, event-streaming, event-sourcing, `Gatling` for performance test.
 - :+1: I'm interested on Geo Spatial related projects
