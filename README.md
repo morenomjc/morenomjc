@@ -16,6 +16,8 @@
 
 - Spring Data Redis
   - https://github.com/spring-projects/spring-data-redis/pull/2118
+- Spring Batch
+  - https://github.com/spring-projects/spring-batch/pull/4377  
 
 ##### TECH BLOGS
 - [Geospatial indexing app with different backends using Spring Boot and Testcontainers](https://link.medium.com/N2vaTzhUgnb)
