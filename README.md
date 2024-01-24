@@ -7,9 +7,10 @@
 
 - :philippines: Filipino
 - :dart: Certified Kubernetes Application Developer (CKAD)
+- :dart: Professional Scrum Master I (PSM I)
 - :sunglasses: TDD Practitioner and DevOps-oriented
 - :seedling: I’m currently learning `Kafka`, event-streaming, event-sourcing, `Gatling` for performance test.
-- :+1: I'm interested on Geo Spatial related projects
+- :+1: I'm interested on Geospatial related projects
 - :zap: Fun fact: I'm a huge Martin Garrix fan!
 
 ##### OPEN-SOURCE CONTRIBUTIONS
