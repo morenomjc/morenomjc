@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### I am a Java Backend Engineer on a journey to be a Solutions Architect.
+#### I am a Java Backend Engineer.
 
 
 ##### ABOUT ME
