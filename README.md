@@ -9,7 +9,6 @@
 - :dart: Certified Kubernetes Application Developer (CKAD)
 - :dart: Professional Scrum Master I (PSM I)
 - :sunglasses: TDD Practitioner and DevOps-oriented
-- :+1: I'm interested on Geospatial related projects
 - :zap: Fun fact: I'm a huge Martin Garrix and Coldplay fan!
 
 ##### OPEN-SOURCE CONTRIBUTIONS
