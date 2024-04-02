@@ -10,6 +10,7 @@
 - :dart: Professional Scrum Master I (PSM I)
 - :sunglasses: TDD Practitioner and DevOps-oriented
 - :zap: Fun fact: I'm a huge Martin Garrix and Coldplay fan!
+- :seedling: Currently learning Python and Data Engineering
 
 ##### OPEN-SOURCE CONTRIBUTIONS
 
@@ -20,16 +21,6 @@
 
 ##### TECH BLOGS
 - [Geospatial indexing app with different backends using Spring Boot and Testcontainers](https://link.medium.com/N2vaTzhUgnb)
-
-##### CONNECT WITH ME
-
-<a href="https://www.linkedin.com/in/morenomjc/">
-  <img align="left" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/morenomjc">
-  <img align="left" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<br/>
 
 #### Backend Stack
 
