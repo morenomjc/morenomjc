@@ -10,7 +10,7 @@
 - :dart: Professional Scrum Master I (PSM I)
 - :sunglasses: TDD Practitioner and DevOps-oriented
 - :zap: Fun fact: I'm a huge Martin Garrix and Coldplay fan!
-- :seedling: Currently learning Python and Data Engineering
+- :seedling: Currently learning Observability and Data Engineering
 
 ##### OPEN-SOURCE CONTRIBUTIONS
 
